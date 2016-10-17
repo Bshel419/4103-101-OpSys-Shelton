@@ -14,7 +14,7 @@
 *Example of multi-threading*:When the OS breaks down a process into threads and keeps track of all of the different threads and how far along the threads are in their execution.
 
 
-**What is an instruction trace?**-making a system perform a certain task and recording the activity of the components of the system to see how they can be improved.
+**What is an instruction trace?**-A sequence of instructions that execute for a process.
 
 
 **What common events alead to the creation of a process?**- 
@@ -36,13 +36,13 @@
 **List four characteristics of a suspended process.**-
 1)The process is not immediatly available for execution.
 2)The process may or may not be waiting for an event.
-3)The process was placed in a suspended state by either by itself, a parent process, or the OS; for the purpose of preventing its execution.
+3)The process was placed in a suspended state by either itself, a parent process, or the OS; for the purpose of preventing its execution.
 4)The process may not be removed from this state until itself, a parent process, or the OS explicitily orders its removal.
 
 
 **List three general categories of information in a process control block.**-
 1)Process identification data
-2)Porcess state data
+2)Process state data
 3)Process control data
 
 
